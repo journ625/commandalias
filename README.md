@@ -1,5 +1,5 @@
 # CMA
-Lightweight command alias plugin, on Purpur, 1.18.2 Java 17,
+Lightweight command alias plugin, on Purpur, 1.18.2 Java 17.
 
 # COMMANDS
 - /cma create "COMMAND" "ALIAS"
