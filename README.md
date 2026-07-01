@@ -10,6 +10,3 @@ Lightweight command alias plugin, on Purpur, 1.18.2 Java 17.
   > You can edit your aliases. So you can edit "esr" to "er", so you will only need to type /er next time.
 - /cma remove "ALIAS"
   > You can delete the created aliases. So you can't use /er anymore.
-
-# CREDITS
-- Claude Sonnet 5
