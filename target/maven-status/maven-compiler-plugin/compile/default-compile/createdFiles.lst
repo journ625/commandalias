@@ -1,0 +1,5 @@
+hu\example\cma\AliasManager.class
+hu\example\cma\DynamicAliasCommand.class
+hu\example\cma\CmaPlugin.class
+hu\example\cma\CommandMapUtil.class
+hu\example\cma\CmaCommand.class

@@ -1,0 +1,18 @@
+name: CustomMenuAlias
+main: hu.example.cma.CmaPlugin
+version: 1.0.0
+api-version: 1.18
+author: Te
+description: Dinamikus alias parancsok kezelése (/cma create, list, edit, remove)
+
+commands:
+  cma:
+    description: CMA alias parancsok kezelése
+    usage: /cma <create|list|edit|remove>
+    permission: cma.admin
+    permission-message: "§cNincs jogosultságod ehhez a parancshoz!"
+
+permissions:
+  cma.admin:
+    description: Hozzáférés a /cma admin parancsokhoz
+    default: op
